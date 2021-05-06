@@ -1,0 +1,54 @@
+id,sc name,vnm,cname
+4,thamnophis_proximus,nonvenomous,Western ribbon snake
+67,nerodia_sipedon,nonvenomous,Northern water snake
+72,opheodrys_vernalis,nonvenomous,Smooth green snake
+78,crotalus_horridus,venomous,Timber rattlesnake
+128,crotalus_pyrrhus,venomous,Eastern rat snake
+140,nerodia_rhombifer,nonvenomous,"diamondback water snake,"
+204,thamnophis_sirtalis,nonvenomous,Common garter snake
+239,natrix_natrix,nonvenomous,Grass snake
+273,crotalus_adamanteus,venomous,Eastern diamondback rattlesnake
+326,charina_bottae,nonvenomous,Rubber boa
+337,pituophis_catenifer,nonvenomous,Gopher snake
+362,lampropeltis_triangulum,nonvenomous,Milk snake
+390,nerodia_erythrogaster,nonvenomous,Plain-bellied water snake
+394,thamnophis_marcianus,venomous,Checkered garter snake
+448,lampropeltis_californiae,nonvenomous,California kingsnake
+450,crotalus_ruber,venomous,Red diamond rattlesnake
+460,rhinocheilus_lecontei,nonvenomous,Long-nosed snake
+508,opheodrys_aestivus,nonvenomous,Rough green snake
+526,thamnophis_ordinoides,nonvenomous,Northwestern garter snake
+536,thamnophis_radix,nonvenomous,Plains garter snake
+540,masticophis_flagellum,nonvenomous,Coachwhip
+543,pantherophis_vulpinus,nonvenomous,foxsnake
+561,hierophis_viridiflavus,nonvenomous,Green whip snake
+581,heterodon_platirhinos,nonvenomous,Eastern hognose snake
+597,pantherophis_emoryi,nonvenomous,Great plains rat snake
+629,regina_septemvittata,nonvenomous,Queen snake
+635,haldea_striatula,nonvenomous,Rough earth snake
+639,diadophis_punctatus,nonvenomous,Ring-necked snake
+653,nerodia_fasciata,nonvenomous,Banded water snake
+654,storeria_occipitomaculata,nonvenomous,Redbelly snake
+663,crotalus_scutulatus,venomous,Mojave green
+697,storeria_dekayi,venomous,DeKay's brownsnake
+707,crotalus_viridis,venomous,Prairie rattlesnake
+734,boa_imperator,nonvenomous,boa_imperator
+771,pantherophis_obsoletus,nonvenomous,Black rat snake
+784,lichanura_trivirgata,nonvenomous,Rosy boa
+804,agkistrodon_contortrix,venomous,Copperhead
+811,thamnophis_elegans,nonvenomous,garter snake 
+854,agkistrodon_piscivorus,venomous,Cottonmouth
+857,pantherophis_guttatus,nonvenomous,Corn snake
+872,crotalus_atrox,venomous,Western diamondback rattlesnake
+957,carphophis_amoenus,nonvenomous,Eastern worm snake
+966,coluber_constrictor,nonvenomous,Eastern racer
+1059,pantherophis_spiloides,nonvenomous,Gray ratsnake
+1625,pantherophis_alleghaniensis,nonvenomous,Eastern rat snake
+1752,bungarus_caeruleus,venomous,Common Krait
+1834,ophiophagus_hannah,venomous,King Cobra
+1896,daboia_russelii,venomous,Russell Viper
+1904,echis,venomous,Saw scaled viper
+1967,naja_naja,venomous,Spectacled cobra
+1990,python_molurus,nonvenomous,Indian rock python
+2010,xenochrophis_piscator,nonvenomous,Checkered Keelback
+2057,naja_kaouthia,venomous,Monocled cobra
